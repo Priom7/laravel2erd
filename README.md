@@ -16,6 +16,11 @@ npm install @priom7/laravel2erd
 - 🖼️ Interactive web viewer with zoom controls
 - 💾 Export diagrams as SVG
 
+<p align="center">
+<!--   <img src="https://media.giphy.com/media/l0HlymKkqkdmUjR1q/giphy.gif" width="400" alt="working gif"> -->
+    <img src="https://github.com/Priom7/laravel2erd/blob/main/sample.png"  alt="working gif">
+</p>
+
 ## Usage
 
 After installation, you can generate an ERD diagram for your Laravel project:
