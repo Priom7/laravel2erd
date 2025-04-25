@@ -1,0 +1,41 @@
+{
+  "name": "@priom7/laravel2erd",
+  "version": "1.0.0",
+  "description": "Automatically generate ERD diagrams for Laravel applications",
+  "main": "lib/generator.js",
+  "bin": {
+    "laravel2erd": "./bin/laravel2erd.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node bin/setup.js"
+  },
+  "keywords": [
+    "laravel",
+    "erd",
+    "diagram",
+    "entity-relationship",
+    "database",
+    "visualization"
+  ],
+  "author": "Md Sharif Alam",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "fs-extra": "^11.1.1",
+    "mermaid": "^10.3.0",
+    "glob": "^10.3.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priom7/laravel2erd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/priom7/laravel2erd/issues"
+  },
+  "homepage": "https://github.com/priom7/laravel2erd#readme"
+}
