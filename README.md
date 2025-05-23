@@ -1,4 +1,4 @@
-# Laravel2ERD
+# Laravel2ERD ![npm](https://img.shields.io/npm/dt/@priom7/laravel2erd)
 
 A Node.js package that automatically generates Entity-Relationship Diagrams (ERD) for Laravel applications.
 
